@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "Wallet.Api.Controllers.TransfersController",
+    "Method": "GetAll",
+    "RelativePath": "api/Transfers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.TransfersController",
+    "Method": "Transfer",
+    "RelativePath": "api/Transfers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Businesslogic.DTO.TransferRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.WalletsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Wallets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.WalletsController",
+    "Method": "Create",
+    "RelativePath": "api/Wallets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Businesslogic.DTO.CreateWalletDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.WalletsController",
+    "Method": "GetById",
+    "RelativePath": "api/Wallets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.WalletsController",
+    "Method": "Update",
+    "RelativePath": "api/Wallets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Businesslogic.DTO.UpdateWalletDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.WalletsController",
+    "Method": "Delete",
+    "RelativePath": "api/Wallets/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Wallet.Api.Controllers.WalletsController",
+    "Method": "GetByDocumentId",
+    "RelativePath": "api/Wallets/GetByDocumentId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

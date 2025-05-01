@@ -1,0 +1,22 @@
+D:\OneDrive\Escritorio\payphone practice\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\OneDrive\Escritorio\payphone practice\Domain\bin\Debug\net8.0\Domain.dll
+D:\OneDrive\Escritorio\payphone practice\Domain\bin\Debug\net8.0\Domain.pdb
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\Domain.dll
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\Domain.pdb
+D:\OneDrive\Escritorio\payphone practice\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Domain\obj\Debug\net8.0\ref\Domain.dll

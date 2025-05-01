@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.csproj|d:\\onedrive\\escritorio\\payphone practice\\wallet\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.csproj|solutionrelative:controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB36CF-6A1D-4400-8302-498588FCCC68}|..\\Businesslogic\\Businesslogic.csproj|d:\\onedrive\\escritorio\\payphone practice\\businesslogic\\usecases\\transferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|d:\\onedrive\\escritorio\\payphone practice\\wallet\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|solutionrelative:controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F1C786-5F8D-4719-88AE-6D3E39624028}|..\\Infrastructure\\Infrastructure.csproj|d:\\onedrive\\escritorio\\payphone practice\\infrastructure\\repositories\\transferrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73C50A6-05DA-4BAE-A07F-D95ACFF29E57}|..\\Domain\\Domain.csproj|d:\\onedrive\\escritorio\\payphone practice\\domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|d:\\onedrive\\escritorio\\payphone practice\\wallet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|d:\\onedrive\\escritorio\\payphone practice\\wallet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|d:\\onedrive\\escritorio\\payphone practice\\wallet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DC9E41-7602-4BD3-A964-81D7F43E6E81}|Wallet.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransfersController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Controllers\\TransfersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransfersController.cs",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Controllers\\TransfersController.cs",
+              "RelativeToolTip": "Controllers\\TransfersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:47:59.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Businesslogic\\UseCases\\TransferService.cs",
+              "RelativeDocumentMoniker": "..\\Businesslogic\\UseCases\\TransferService.cs",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Businesslogic\\UseCases\\TransferService.cs",
+              "RelativeToolTip": "..\\Businesslogic\\UseCases\\TransferService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:47:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Domain\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Wallet.cs",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Domain\\Entities\\Wallet.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:47:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T16:35:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T16:35:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:19:27.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WalletsController.cs",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Wallet\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "Controllers\\WalletsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:17:40.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferRepository.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Escritorio\\payphone practice\\Infrastructure\\Repositories\\TransferRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\TransferRepository.cs",
+              "ToolTip": "D:\\OneDrive\\Escritorio\\payphone practice\\Infrastructure\\Repositories\\TransferRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\TransferRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:17:27.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

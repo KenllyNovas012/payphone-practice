@@ -1,0 +1,11 @@
+D:\OneDrive\Escritorio\payphone practice\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\OneDrive\Escritorio\payphone practice\Entity\bin\Debug\net8.0\Entity.dll
+D:\OneDrive\Escritorio\payphone practice\Entity\bin\Debug\net8.0\Entity.pdb
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\Entity.dll
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\Entity.pdb
+D:\OneDrive\Escritorio\payphone practice\Entity\obj\Debug\net8.0\ref\Entity.dll

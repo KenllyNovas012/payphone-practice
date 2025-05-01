@@ -1,0 +1,30 @@
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\bin\Debug\net8.0\Businesslogic.deps.json
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\bin\Debug\net8.0\Businesslogic.dll
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\bin\Debug\net8.0\Businesslogic.pdb
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.AssemblyInfoInputs.cache
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.AssemblyInfo.cs
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.csproj.CoreCompileInputs.cache
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.dll
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\refint\Businesslogic.dll
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.pdb
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\ref\Businesslogic.dll
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.csproj.AssemblyReference.cache
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\bin\Debug\net8.0\Domain.dll
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\bin\Debug\net8.0\Domain.pdb
+D:\OneDrive\Escritorio\payphone practice\Businesslogic\obj\Debug\net8.0\Business.CF5E0F55.Up2Date
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\bin\Debug\net8.0\Businesslogic.deps.json
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\bin\Debug\net8.0\Businesslogic.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\bin\Debug\net8.0\Businesslogic.pdb
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\bin\Debug\net8.0\Domain.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\bin\Debug\net8.0\Domain.pdb
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.csproj.AssemblyReference.cache
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.AssemblyInfoInputs.cache
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.AssemblyInfo.cs
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.csproj.CoreCompileInputs.cache
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Business.CF5E0F55.Up2Date
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\refint\Businesslogic.dll
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\Businesslogic.pdb
+C:\Users\Kenlly Novas\Downloads\payphone practice\payphone practice\Businesslogic\obj\Debug\net8.0\ref\Businesslogic.dll
